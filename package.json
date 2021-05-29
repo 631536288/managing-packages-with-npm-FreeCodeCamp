@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Xiyao Zhao",
 	"description": "This is a project for practicing 'Managing Packages with NPM' in Module 'APIs and Microservices' on FreeCodeCamp",
+	"keywords": ["freecodecamp", "npm", "Microservices"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
