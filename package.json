@@ -3,6 +3,7 @@
 	"author": "Xiyao Zhao",
 	"description": "This is a project for practicing 'Managing Packages with NPM' in Module 'APIs and Microservices' on FreeCodeCamp",
 	"keywords": ["freecodecamp", "npm", "Microservices"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
